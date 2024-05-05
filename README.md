@@ -12,7 +12,7 @@ To write a python program to perform stop and wait protocol
 ## CLIENT
 ```
 #DEVELOPED BY: SAI SANJIV R
-REGISTER NO. : 212223230179
+#REGISTER NO. : 212223230179
 
 import socket
 s=socket.socket()
